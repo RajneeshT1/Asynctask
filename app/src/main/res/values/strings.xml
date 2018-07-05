@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AsyncTask</string>
+    <string name="image">image</string>
+    <string name="button">Button</string>
+</resources>
